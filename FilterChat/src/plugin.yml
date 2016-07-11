@@ -1,0 +1,4 @@
+name: TimberChat
+main: com.timberdnd.filter.FilterChat
+author: [TimberDND]
+version: 1.0
